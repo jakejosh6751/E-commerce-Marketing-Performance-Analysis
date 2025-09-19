@@ -1,4 +1,4 @@
-# E-commerce Marketing Performance Analysis with SQL
+# E-commerce Marketing Performance Analysis
 
 ## Executive Summary:
 
