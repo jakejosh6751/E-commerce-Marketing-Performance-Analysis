@@ -1,11 +1,13 @@
 # E-commerce Marketing Performance Analysis with SQL
 
-### Project Overview
+## Executive Summary:
 
-### Data Cleaning & Transformation
+### Business Problem:
 
-### Data Exploration and Visualization
+### Methodology:
 
-### Key Insights, and Recommendations
+### Skillls:
+
+### Insights & Recommendation
 
 
