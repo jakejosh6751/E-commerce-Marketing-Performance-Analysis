@@ -4,9 +4,8 @@
 
 ### Data Cleaning & Transformation
 
-### Data Exploration, Key Insights, and Recommendations
+### Data Exploration and Visualization
 
-### Additional Project Materials
-
+### Key Insights, and Recommendations
 
 
